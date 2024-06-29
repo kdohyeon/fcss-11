@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: fcss-11
+
+authorization:
+  key: thisisme
+
